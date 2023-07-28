@@ -1,0 +1,23 @@
+@import "../../styles/variables";
+.banner{
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: 2vh;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(0, 0, 0, 0.4);
+        background-blend-mode: darken;
+        color: white;
+    background-image: url("../../assets/images/helena-hertz-WwD-LlmXp5o-unsplash.jpg");
+    .about{
+        font-family: fonti;
+    }
+}
+.input{
+    width: 360px;
+    height: 40px;
+    margin-block:10px;
+    border:1px solid $gray;
+}

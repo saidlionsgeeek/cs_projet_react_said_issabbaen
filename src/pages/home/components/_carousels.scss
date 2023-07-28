@@ -1,0 +1,89 @@
+.image-darken1{
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+    background-position:top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: url("../../../assets/images/carouselsimage1.jpg");
+    background-color: rgba(0, 0, 0, 0.255);
+    background-blend-mode: darken;
+    h3{
+        margin-top: 80px;
+        font-family: extrabolditalic;
+    }
+    p{
+        margin-block: 30px;
+        font-family: lightitalic;
+        font-weight: 600;
+    }
+}
+.image-darken2{
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+    background-position:top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: url("../../../assets/images/carouselsimages2.jpg");
+    background-color: rgba(0, 0, 0, 0.255);
+    background-blend-mode: darken;
+    h3{
+        margin-top: 80px;
+        font-family: extrabolditalic;
+    }
+    p{
+        margin-block: 30px;
+        font-family: lightitalic;
+        font-weight: 600;
+    }
+}
+.image-darken3{
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+    background-position:top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: url("../../../assets/images/carouselsimages3.jpg");
+    background-color: rgba(0, 0, 0, 0.255);
+    background-blend-mode: darken;
+    h3{
+        margin-top: 80px;
+        font-family: extrabolditalic;
+    }
+    p{
+        margin-block: 30px;
+        font-family: lightitalic;
+        font-weight: 600;
+    }
+    
+}
+.image-darken4{
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+    background-position:top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: url("../../../assets/images/carouselsimages4.jpg");
+    background-color: rgba(0, 0, 0, 0.255);
+    background-blend-mode: darken;
+    h3{
+        margin-top: 80px;
+        font-family: extrabolditalic;
+    }
+    p{
+        margin-block: 30px;
+        font-family: lightitalic;
+        font-weight: 600;
+    }
+}
+.button-shop{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(253, 253, 253, 0.2);
+
+}
